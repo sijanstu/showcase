@@ -1,0 +1,18 @@
+@import url('./main-layout.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+.list-view .content {
+display: flex;
+}
+.list-view .user-grid {
+flex: 2;
+}
+.list-view .user-form {
+flex: 1;
+padding: var(--lumo-space-m);
+}
+@media all and (max-width: 1100px) {
+.list-view.editing .toolbar,
+.list-view.editing .user-grid {
+display: none;
+}
+}  
