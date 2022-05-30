@@ -1,5 +1,5 @@
 # Showcase in Spring and Vaadin
-Deployed: [Here:]([https://askshowcase.herokuapp.com](https://askshowcase.herokuapp.com/))
+Deployed: [askshowcase.herokuapp.com](https://askshowcase.herokuapp.com/))
 
 ## if you are trying to run yourself: The above sources are modified to exclude all of the critical credentials, you need to edit those first
 
