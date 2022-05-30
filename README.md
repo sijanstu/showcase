@@ -1,6 +1,6 @@
 # Showcase in Spring and Vaadin
 
-## Running the application
+## The above sources are modified to exclude all of the critical credential, you need to edit those first
 
 The project is a standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
