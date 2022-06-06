@@ -1,12 +1,9 @@
-# GitHub showcase project built with Spring and Vaadin
+# GitHub Showcase project built with Spring and Vaadin
 Deployed: [https://showcase.sijanbhandari.com.np](https://showcase.sijanbhandari.com.np)
 
-## There are too many things to achieve:
-
-if you want to login to website and check messenging feature:
-
-Username: admin
-Password: admin
+# if you want to login to website and check messenging feature:
+## Username: admin
+## Password: admin
 
 The project is a standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
