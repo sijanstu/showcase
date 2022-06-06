@@ -1,5 +1,5 @@
 # Showcase in Spring and Vaadin
-Deployed: [askshowcase.herokuapp.com](https://askshowcase.herokuapp.com/)
+Deployed: [https://showcase.sijanbhandari.com.np](https://showcase.sijanbhandari.com.np)
 
 ## 
 
